@@ -1,0 +1,10 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "Aragon Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js", AragonBot
+  },
+  "author": "PolarniZkea",
+}
